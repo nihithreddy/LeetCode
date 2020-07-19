@@ -7,3 +7,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Reformat Date](https://leetcode.com/problems/reformat-date/)
 * Problem link: [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 * Problem link: [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+* Problem link: [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
