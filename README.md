@@ -10,3 +10,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
 * Problem link: [Decode Ways](https://leetcode.com/problems/decode-ways/)
 * Problem link: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+* Problem link: [Plus One](https://leetcode.com/problems/plus-one/)
