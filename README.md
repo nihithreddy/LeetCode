@@ -9,3 +9,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 * Problem link: [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
 * Problem link: [Decode Ways](https://leetcode.com/problems/decode-ways/)
+* Problem link: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
