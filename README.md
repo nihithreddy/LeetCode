@@ -12,3 +12,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 * Problem link: [Plus One](https://leetcode.com/problems/plus-one/)
 * Problem link: [Permutations](https://leetcode.com/problems/permutations/)
+* Proble  link: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
