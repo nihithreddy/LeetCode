@@ -13,3 +13,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Plus One](https://leetcode.com/problems/plus-one/)
 * Problem link: [Permutations](https://leetcode.com/problems/permutations/)
 * Problem  link: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+* Problem link: [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+
