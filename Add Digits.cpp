@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int find_sum(int n){
