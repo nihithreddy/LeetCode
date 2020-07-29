@@ -19,4 +19,6 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Single Number III](https://leetcode.com/problems/single-number-iii/)
 * Problem link: [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 * Problem link: [Add Digits](https://leetcode.com/problems/add-digits/)
+* Problem link: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
 
