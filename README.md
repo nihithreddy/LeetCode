@@ -18,4 +18,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 * Problem link: [Single Number III](https://leetcode.com/problems/single-number-iii/)
 * Problem link: [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+* Problem link: [Add Digits](https://leetcode.com/problems/add-digits/)
 
