@@ -23,4 +23,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Subsets](https://leetcode.com/problems/subsets/)
 * Problem link: [Same Tree](https://leetcode.com/problems/same-tree/)
 * Problem link: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* Problem link: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
