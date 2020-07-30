@@ -24,5 +24,6 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Same Tree](https://leetcode.com/problems/same-tree/)
 * Problem link: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * Problem link: [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-* Problem link:[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* Problem link: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+* Problem link: [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
