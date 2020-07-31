@@ -28,5 +28,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * Problem link: [Sort Colors](https://leetcode.com/problems/sort-colors/)
 * Problem link: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-
+* Problem link: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
