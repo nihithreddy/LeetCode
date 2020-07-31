@@ -27,5 +27,6 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 * Problem link: [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 * Problem link: [Sort Colors](https://leetcode.com/problems/sort-colors/)
+* Problem link: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 
