@@ -31,4 +31,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * Problem link: [Detect Capital](https://leetcode.com/problems/detect-capital/)
 * Problem link: [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+* Problem link: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
