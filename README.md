@@ -30,4 +30,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 * Problem link: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * Problem link: [Detect Capital](https://leetcode.com/problems/detect-capital/)
+* Problem link: [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
