@@ -33,4 +33,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 * Problem link: [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 * Problem link: [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+* Problem link: [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 
