@@ -39,4 +39,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Power of Four](https://leetcode.com/problems/power-of-four/)
 * Problem link: [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 * Problem link: [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+* Problem link :[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
