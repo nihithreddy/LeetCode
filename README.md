@@ -45,3 +45,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 * Problem link: [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
 * Problem link: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+* Problem link: [H-Index](https://leetcode.com/problems/h-index/)
