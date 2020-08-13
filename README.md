@@ -47,3 +47,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 * Problem link: [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * Problem link: [H-Index](https://leetcode.com/problems/h-index/)
 * Problem link: [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+* Problem link: [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
