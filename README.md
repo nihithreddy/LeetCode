@@ -53,3 +53,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 - Problem link: [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
 - Problem link: [Goat Latin](https://leetcode.com/problems/goat-latin/)
+- Problem link: [Reorder List](https://leetcode.com/problems/reorder-list/)
+- Problem link: [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
