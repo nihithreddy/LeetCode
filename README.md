@@ -60,3 +60,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 - Problem link: [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
 - Problem link: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- Problem link: [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
