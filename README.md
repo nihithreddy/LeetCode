@@ -62,3 +62,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - Problem link: [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - Problem link: [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+- Problem link: [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
