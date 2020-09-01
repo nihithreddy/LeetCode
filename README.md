@@ -64,3 +64,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
 - Problem link: [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
 - Problem link: [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+- Problem link: [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
