@@ -65,3 +65,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
 - Problem link: [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 - Problem link: [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+- Problem link: [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
