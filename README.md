@@ -66,3 +66,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
 - Problem link: [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
 - Problem link: [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+- Problem link: [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
