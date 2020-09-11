@@ -69,3 +69,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - Problem link: [Partition Labels](https://leetcode.com/problems/partition-labels/)
 - Problem link: [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+- Problem link: [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
