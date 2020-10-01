@@ -82,3 +82,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 - Problem link: [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
 - Problem link: [Word Break](https://leetcode.com/problems/word-break/)
+- Problem link: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
