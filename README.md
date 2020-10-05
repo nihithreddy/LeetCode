@@ -85,3 +85,4 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 - Problem link: [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - Problem link: [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+- Problem link: [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
