@@ -88,4 +88,5 @@ These are my solutions to [leetcode](https://leetcode.com/) problems
 - Problem link: [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 - Problem link: [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)
 - Problem link: [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+- Problem link: [Rotate List](https://leetcode.com/problems/rotate-list/)
 
